@@ -1,6 +1,6 @@
 # accessToSsr
 
-@[toc]
+
 # 下载安装包
 
 从 https://github.com/qingshuisiyuan/electron-ssr-backup 下载对应系统的安装包。
